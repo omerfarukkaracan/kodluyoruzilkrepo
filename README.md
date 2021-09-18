@@ -10,3 +10,5 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ```
 https://github.com/omerfarukkaracan/kodluyoruzilkrepo.git
 ```
+asasfasfasf
+asfasfasf
